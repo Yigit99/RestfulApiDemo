@@ -1,0 +1,12 @@
+C:\Users\yigit.cakmakci\OneDrive - Logo\Desktop\Logo yazılım\reposity pattern and mvc example\RestfulApiProjectDemo\RestApiDemo\ProductModel\bin\Debug\net6.0\ProductModel.deps.json
+C:\Users\yigit.cakmakci\OneDrive - Logo\Desktop\Logo yazılım\reposity pattern and mvc example\RestfulApiProjectDemo\RestApiDemo\ProductModel\bin\Debug\net6.0\ProductModel.dll
+C:\Users\yigit.cakmakci\OneDrive - Logo\Desktop\Logo yazılım\reposity pattern and mvc example\RestfulApiProjectDemo\RestApiDemo\ProductModel\bin\Debug\net6.0\ProductModel.pdb
+C:\Users\yigit.cakmakci\OneDrive - Logo\Desktop\Logo yazılım\reposity pattern and mvc example\RestfulApiProjectDemo\RestApiDemo\ProductModel\obj\Debug\net6.0\ProductModel.csproj.AssemblyReference.cache
+C:\Users\yigit.cakmakci\OneDrive - Logo\Desktop\Logo yazılım\reposity pattern and mvc example\RestfulApiProjectDemo\RestApiDemo\ProductModel\obj\Debug\net6.0\ProductModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yigit.cakmakci\OneDrive - Logo\Desktop\Logo yazılım\reposity pattern and mvc example\RestfulApiProjectDemo\RestApiDemo\ProductModel\obj\Debug\net6.0\ProductModel.AssemblyInfoInputs.cache
+C:\Users\yigit.cakmakci\OneDrive - Logo\Desktop\Logo yazılım\reposity pattern and mvc example\RestfulApiProjectDemo\RestApiDemo\ProductModel\obj\Debug\net6.0\ProductModel.AssemblyInfo.cs
+C:\Users\yigit.cakmakci\OneDrive - Logo\Desktop\Logo yazılım\reposity pattern and mvc example\RestfulApiProjectDemo\RestApiDemo\ProductModel\obj\Debug\net6.0\ProductModel.csproj.CoreCompileInputs.cache
+C:\Users\yigit.cakmakci\OneDrive - Logo\Desktop\Logo yazılım\reposity pattern and mvc example\RestfulApiProjectDemo\RestApiDemo\ProductModel\obj\Debug\net6.0\ProductModel.dll
+C:\Users\yigit.cakmakci\OneDrive - Logo\Desktop\Logo yazılım\reposity pattern and mvc example\RestfulApiProjectDemo\RestApiDemo\ProductModel\obj\Debug\net6.0\refint\ProductModel.dll
+C:\Users\yigit.cakmakci\OneDrive - Logo\Desktop\Logo yazılım\reposity pattern and mvc example\RestfulApiProjectDemo\RestApiDemo\ProductModel\obj\Debug\net6.0\ProductModel.pdb
+C:\Users\yigit.cakmakci\OneDrive - Logo\Desktop\Logo yazılım\reposity pattern and mvc example\RestfulApiProjectDemo\RestApiDemo\ProductModel\obj\Debug\net6.0\ref\ProductModel.dll
